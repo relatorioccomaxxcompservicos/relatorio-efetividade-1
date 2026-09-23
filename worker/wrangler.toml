@@ -1,0 +1,8 @@
+name = "maxx-efetividade-api"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "maxx-efetividade"
+database_id = "COLE_O_ID_DO_D1_AQUI"
